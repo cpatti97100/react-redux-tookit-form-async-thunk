@@ -1,0 +1,10 @@
+.fieldset {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 5%; 
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  border: none;
+}
